@@ -5,6 +5,6 @@ Then script will use ssh command(in Linux) to connect to the host which selected
 The purpose of this script is for users who use mRemoteNG in Windows, but want to use connection file in Linux.
 
 Notes:
- --Now only ssh connection is supported.
+ -- Only ssh connection is supported.
  
  --This script is used in Linux.
